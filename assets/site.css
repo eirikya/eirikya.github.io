@@ -175,6 +175,9 @@ html[data-lang="nb"] [data-l="en"] { display: none !important; }
 .feature p { margin: 0; color: var(--muted); font-size: 16px; }
 .dot { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 8px; vertical-align: 1px; }
 
+.game-links { margin: 22px 0 0; font-size: 15px; }
+.game-links a { color: var(--muted); }
+
 /* Brukerstøtte */
 .support {
   margin: 34px 0 0;
@@ -207,6 +210,8 @@ html[data-lang="nb"] [data-l="en"] { display: none !important; }
 .btn:hover { background: var(--green-hi); }
 .btn:focus-visible { outline: 3px solid var(--yellow); outline-offset: 3px; }
 
+.faq-group + .faq-group { margin-top: 18px; }
+.faq-group h3 { margin: 0 0 8px; font-size: 15px; letter-spacing: 1.2px; text-transform: uppercase; color: var(--yellow); }
 details { border-top: 1px solid var(--line); padding: 12px 0; }
 details:first-of-type { border-top: 0; padding-top: 0; }
 summary { cursor: pointer; font-weight: 800; }
