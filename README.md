@@ -7,6 +7,7 @@ Nettsiden til Eirikya Games: https://eirikya.github.io
   - `zoopop/personvern.html` – Zoo Pop: Animal Merge
   - `tumble-numbers/personvern.html` – Tumble Numbers
   - `slippery-paws/personvern.html` – Slippery Paws
+  - `minisudoku/personvern.html` – Minisudoku
 - `personvern.html` og `privacy.html` – gamle adresser for Zoo Pop, sender videre til `zoopop/personvern.html` (så gamle lenker virker)
 - `app-ads.txt` – bekrefter overfor annonsørene at appene er dine. Gjelder alle appene i samme AdMob-konto (linjen fra AdMob: Apper → Vis alle apper → app-ads.txt)
 - `assets/` – stil og språkbytte, `img/` – ikoner og skjermbilder
